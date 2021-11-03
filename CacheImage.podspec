@@ -25,7 +25,7 @@ s.homepage = "https://github.com/tanuawas/CacheImage"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
 s.source = { :git => "https://github.com/tanuawas/CacheImage.git", 
-             :tag => "#{s.version}" }
+             :tag => "#{s.version}",:commit => "a96d4886c157ea6de89a4eeb7d10117b411681fb" }
 
 # 7
 s.framework = "UIKit"
