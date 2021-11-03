@@ -1,2 +1,2 @@
-# CacheImage
-Created new repository for deploying cache image
+# ImageCacheiOS
+This library will be helpful for download and cache the image in your application.
