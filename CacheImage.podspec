@@ -8,7 +8,7 @@ s.summary = "This library will be useful for download image and cache."
 s.requires_arc = true
 
 # 2
-s.version = "0.0.4"
+s.version = "1.0.0"
 
 # 3
   s.license = { :type => 'Copyright', :text => 'Created and licensed by Tanuja Awasthi. Copyright 2021 Tanuja Awasthi. All rights reserved.' }
